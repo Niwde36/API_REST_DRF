@@ -28,7 +28,7 @@ Asegúrate de tener Python y pip instalados en tu sistema. Este proyecto se basa
 **Para clonar el repositorio en tu máquina local:**
 
 **bash**
-git clone https://github.com/Niwde36/REST_DRF.git
+git clone https://github.com/Niwde36/API_REST_DRF.git
 cd project_REST
 
 ### Uso
