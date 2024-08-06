@@ -20,7 +20,7 @@ build/
 nosetests.xml
 coverage.xml
 *.cover
-*.py,cover
+
 
 *.DS_Store
 *.directory
